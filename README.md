@@ -2,20 +2,8 @@
 
 #### My name is TuringVerified and I'm a student 
 
-#### I love Computer Science and philosophy.
-
-###### Here are some of my past projects:
-
-- [OEaaS](https://github.com/TuringVerified/OEaaS): A clone of the is-odd/is-even library, but as a SaaS using ✨AI✨.
-- [Homepage](https://github.com/TuringVerified/homepage): This is my home on the internet! Have a look at https://turingtested.xyz
-
-#### Here's some of my socials
-<img src="https://img.shields.io/badge/turing.tested%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=blueviolet"/> <a href=https://mas.to/@keouck/> <img src="https://img.shields.io/badge/@slippuli:matrix.org-%237289DA.svg?&style=for-the-badge&logo=matrix&logoColor=black"/> </a>
-
 #### You can also visit my [portfolio/blog site](https://turingtested.xyz).
 #### Thanks for visiting my profile <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=TuringVerified&count_private=true&theme=tokyonight&showicons=true)]()
 
 &nbsp;
 
