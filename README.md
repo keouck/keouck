@@ -1,13 +1,53 @@
-<img src="https://github.com/TuringVerified/TuringVerified/blob/main/banner.png?raw=true" alt="Hello World!">
+<div align="center">
 
-#### My name is TuringVerified and I'm a student 
+<img src="https://media.tenor.com/2roX3uxz_68AAAAC/nyan-cat.gif" width="420" alt="Nyan Cat">
 
-#### You can also visit my [portfolio/blog site](https://turingtested.xyz).
-#### Thanks for visiting my profile <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+# Hey, I'm TuringVerified
 
-&nbsp;
+Philosophy • Linux • OpenStreetMap • FOSS
 
-[![Python](https://img.shields.io/badge/Python-F05032?style=for-the-badge&logo=Python&logoColor=black")](https://www.python.org)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=black)](https://git-scm.com)
-[![Rust](https://img.shields.io/badge/-Rust-F05032?style=for-the-badge&logo=Rust&logoColor=black)](https://rust-lang.org)
-[![Linux](https://img.shields.io/badge/-Linux-F05032?style=for-the-badge&logo=Linux&logoColor=black)](https://github.com/torvalds/linux)
+</div>
+
+---
+
+## My links
+
+[portfolio / blog](https://turingtested.xyz) <br>
+[mastodon](https://mas.to/@keouck)
+
+---
+
+## What I'm up to
+
+Designing a an ultra-budget NAS (coming soon).
+
+---
+
+<p align="center">
+
+<a href="#">
+  <img src="https://cyber.dabamos.de/88x31/google_stand.gif">
+</a>
+
+<a href="#">
+  <img src="https://cyber.dabamos.de/88x31/gnu-linux.gif">
+</a>
+
+<a href="#">
+  <img src="https://cyber.dabamos.de/88x31/gnubanner.gif">
+</a>
+
+<a href="#">
+  <img src="https://88x31.nl/gifs/raspberryheaven.png">
+</a>
+
+
+</p>
+
+---
+
+<div align="center">
+
+thanks for visiting :3
+
+</div>
